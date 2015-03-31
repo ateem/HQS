@@ -1,2 +1,9 @@
 # HQS
-web site
+Web Site
+
+-Desktop
+-Mobile
+
+[static]
+
+email capabilities
